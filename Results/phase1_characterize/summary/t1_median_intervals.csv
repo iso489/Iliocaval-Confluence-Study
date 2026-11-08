@@ -1,0 +1,6 @@
+table,quantity,stratum,n,participants,median,ci_lo,ci_hi,ci_method
+Table 1,"median separation, mm",AMOS,493,493,5.24,5.05,6,participant_block_percentile
+Table 1,"median separation, mm",SAROS,366,366,3.505,3,4.235,participant_block_percentile
+Table 1,"median separation, mm",autoPET,1014,900,2.635,2.5,2.965,participant_block_percentile
+Table S3,"median bottleneck radius, mm",native,981,918,1.61328125,1.560498053,1.677734375,cohort_stratified_participant_block_percentile
+Table S3,"median bottleneck radius, mm",inference,778,734,1.5,1.5,1.5,cohort_stratified_participant_block_percentile

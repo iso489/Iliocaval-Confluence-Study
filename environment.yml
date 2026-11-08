@@ -1,0 +1,19 @@
+# Environment for the measurement, statistics and test code in this repository.
+# TotalSegmentator itself is not needed to reproduce the tables from the released results.
+# Only the model-grid rerun (Code/phase1_characterize/model_grid_audit.py) needs it, together
+# with TotalSegmentator 2.17.0, PyTorch and a CUDA GPU.
+name: ivcs-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.10
+  - numpy=2.3.3
+  - scipy=1.16.2
+  - pandas=2.3.3
+  - nibabel=5.3.2
+  - simpleitk=2.5.2
+  - scikit-image=0.25.2
+  - matplotlib=3.10.6
+  - statsmodels=0.14.6
+  - threadpoolctl=3.6.0
+  - pytest=9.0.3

@@ -1,0 +1,20 @@
+{
+ "archive": "https://zenodo.org/api/records/10047292/files/Totalsegmentator_dataset_v201.zip/content",
+ "arterial_masks": 3684,
+ "cases_with_shared_arterial_voxels": 577,
+ "comparator_rule": "confluence_comparators.reach",
+ "fetched_bytes_this_run": 0,
+ "inputs": {
+  "Results/phase1_characterize/connectivity/reference_cases.csv": "19d68d24aa5b62b805cf7ea623d463ccd2ee2c5f29fc51f14b6b68c1f9e2e656",
+  "Results/phase1_characterize/connectivity/supplement_manifest.json": "c47a53bf6ace5be1e9fbddd3be8e631e580d15060904dea4e885ce0872d068c7",
+  "central_directory.bin": "ae1a724729594a9e61e4bf4a43c4c48de75bad60531ec95512304e2ea25fba0b",
+  "meta.csv": "83fa5844fc238c9453e64cddfee5964bc59bbdb994c274b8b931e948a44538ed"
+ },
+ "max_grid_offset_mm": 0.20737123489379883,
+ "outputs": {
+  "reference_arterial_cases.csv": "3f776b15e80c8e718f8db2a61fc97ea8b3079a0b29f3d902f0bdc13a5bcaf3f7",
+  "t1_reference_arterial.csv": "9642b3f43508f17626e7ff7023271e4ba4b5e54ea5ff8262129898836fb06e2f"
+ },
+ "producer": "Code/phase1_characterize/summary/reference_arterial.py",
+ "python": "3.12.10"
+}

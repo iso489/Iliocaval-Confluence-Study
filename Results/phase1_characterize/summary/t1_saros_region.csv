@@ -1,0 +1,4 @@
+region,processed,n,events,estimate,ci_lo,ci_hi,participants,ci_method
+all,392,366,177,48.36065574,43.28461879,53.47074767,366,Wilson_independent_case_proxies
+abdomen,270,244,83,34.01639344,28.36068211,40.16758577,244,Wilson_independent_case_proxies
+wholebody,122,122,94,77.04918033,68.83006216,83.61688229,122,Wilson_independent_case_proxies

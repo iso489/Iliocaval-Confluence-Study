@@ -1,0 +1,3 @@
+grid,subset,n,participants,median_percent,q25_percent,q75_percent,max_percent,median_corridor_voxels,median_corridor_mm3,median_venous_mm3,zero_voxel_corridors
+native,disconnected,892,861,0.02270558312,0.008556062269,0.0684579354,1.864439697,18,25.69875241,109935.3251,0
+inference,disconnected,1095,1051,0.03231017771,0.01650244009,0.07713864729,1.890856869,12,40.5,115141.5,0

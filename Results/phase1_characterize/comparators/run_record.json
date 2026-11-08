@@ -1,0 +1,22 @@
+{
+ "arguments": {
+  "limit": "None",
+  "model_grid_root": "model_grid",
+  "out": "comparators",
+  "recorded_root": "IVCS_study",
+  "study_root": "IVCS_study",
+  "validate_only": "False",
+  "workers": "48"
+ },
+ "cases_json_sha256": "cb7312a882a8168ee9c809b26d07567ace29215c77e7db7e9c7f0568b172b2a0",
+ "examinations": 1899,
+ "failures": {},
+ "outputs": {
+  "attenuation_cases.csv": "9b6b42088faf7cdb636d15742a818ac1d7a957bad8dad34edcb19756b8c65d51",
+  "attenuation_summary.csv": "a01bec7a09b87d9460e9f0022f6de1b33d4fc17490cb134325bf66c93dbb52e0",
+  "comparators_cases.csv": "d94253f7171eb67da58c502f4b8d343f400fe99190e2def147c726ce865ff7b8"
+ },
+ "producer": "Code/phase1_characterize/summary/confluence_comparators.py",
+ "redaction": "path arguments kept as their last component; everything else as the run wrote it",
+ "source_manifest_sha256": "51bd2e2fc4d44b54cf5c6d134cf2dcf26b5de9ad21738895e0dff62dbf1c54c0"
+}

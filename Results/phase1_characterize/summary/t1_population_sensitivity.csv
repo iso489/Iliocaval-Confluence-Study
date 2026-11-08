@@ -1,0 +1,12 @@
+row,n,events,estimate,ci_lo,ci_hi,participants,ci_method
+table1_subject_record:LUNG_CANCER,169,,,,,,
+table1_subject_record:LYMPHOMA,146,,,,,,
+table1_subject_record:MELANOMA,191,,,,,,
+table1_subject_record:NEGATIVE,508,,,,,,
+diagnosis_per_study:LUNG_CANCER,168,51,30.35714286,23.9075572,37.68494763,168,Wilson_independent_case_proxies
+diagnosis_per_study:LYMPHOMA,145,73,50.34482759,42.06896552,58.33333333,144,cohort_stratified_participant_percentile
+diagnosis_per_study:MELANOMA,188,59,31.38297872,24.21052632,38.7755102,177,cohort_stratified_participant_percentile
+diagnosis_per_study:NEGATIVE,513,198,38.59649123,33.97674134,43.08625381,441,cohort_stratified_participant_percentile
+under_18:autoPET,4,3,,,,4,
+without_under_18:autoPET,1010,378,37.42574257,34.24124514,40.65606362,896,cohort_stratified_participant_percentile
+without_under_18:pooled,1869,889,47.56554307,45.29595991,49.86609892,1755,cohort_stratified_participant_percentile

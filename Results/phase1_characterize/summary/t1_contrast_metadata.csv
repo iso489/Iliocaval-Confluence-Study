@@ -1,0 +1,4 @@
+contrast_description,n,events,estimate,ci_lo,ci_hi,participants,ci_method
+all,1014,381,37.5739645,34.36247315,40.80639261,900,cohort_stratified_participant_percentile
+with,953,348,36.51626443,33.29679884,39.76918017,855,cohort_stratified_participant_percentile
+without,61,33,54.09836066,39.3442623,68.96551724,49,cohort_stratified_participant_percentile

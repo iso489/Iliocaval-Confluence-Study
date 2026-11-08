@@ -1,0 +1,19 @@
+{
+ "betti_rule": "overlap_metrics.betti_numbers(mask, 26): 26-connected foreground, 6-connected background",
+ "examinations": 1873,
+ "inputs": {
+  "Results/phase1_characterize/connectivity/analysis_cases.csv": "3c10490b52c529d2e50d3de46c4e0f52518e29d7689b494aa354d0121476a072",
+  "Results/phase1_characterize/connectivity/reference_cases.csv": "19d68d24aa5b62b805cf7ea623d463ccd2ee2c5f29fc51f14b6b68c1f9e2e656",
+  "Results/phase1_characterize/connectivity/reference_source_files.csv": "6c1dcb5bc43752450808e6ad1d68166f6b8d69816c423b83a57961083072099c",
+  "Results/phase1_characterize/gap_content_native/gap_content_cases.csv": "0fdd498152c6b852a84b1c141c04c500bf28dc0e490cb9922e87a8313e6dbaf4",
+  "masks/MANIFEST.csv": "7b5bfea06eee7a243ea00105f4f6e32f7c77f562eb25443c4cc8f051e01e0a9b"
+ },
+ "outputs": {
+  "mask_topology_cases.csv": "dc7d74e281f3eeec3f95b39f269d75b8891a848d8bbfd9414be3157cd5a15ce7",
+  "reference_topology_cases.csv": "c4a78a1b2c742ea02b1b10e6f1b6b3dde2afde3690c0314f2115b9c4778539cd"
+ },
+ "producer": "Code/phase1_characterize/summary/mask_topology.py",
+ "python": "3.12.10",
+ "released_annotations": 600,
+ "ruler_rule": "measure_bifurcation.VERT_LEVELS, build_vert_ruler, z_to_vert_level, level_bin, _level_label"
+}

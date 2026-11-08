@@ -1,0 +1,128 @@
+{
+  "inputs": {
+    "amos_metadata": {
+      "path": "METADATA/AMOS.csv",
+      "sha256": "23261233ff390d9f7d3ef08b23659a29cdd8eec4db90e06287d2a6dcd265c7eb"
+    },
+    "analysis_cases": {
+      "path": "Results/phase1_characterize/connectivity/analysis_cases.csv",
+      "sha256": "3c10490b52c529d2e50d3de46c4e0f52518e29d7689b494aa354d0121476a072"
+    },
+    "attenuation_summary": {
+      "path": "Results/phase1_characterize/comparators/attenuation_summary.csv",
+      "sha256": "a01bec7a09b87d9460e9f0022f6de1b33d4fc17490cb134325bf66c93dbb52e0"
+    },
+    "autopet_crosswalk": {
+      "path": "Code/phase0_data/autopet_ts217_crosswalk.csv",
+      "sha256": "78df6d9df25e77c833f4e19f2147829d862c377cd161b6c5ddc35e301907b9b0"
+    },
+    "autopet_metadata": {
+      "path": "METADATA/autoPET.csv",
+      "sha256": "0c25094925c1cc0596b9449cc2fe66968eaf766e548b8e18707b667a2c3b38cc"
+    },
+    "cohort_table1": {
+      "path": "Results/phase1_characterize/cohort_table1.csv",
+      "sha256": "ea3fdbc9e5d82b3db41b73055f0e202df09acb5d048f8e5b40b0d5260411deb6"
+    },
+    "comparators": {
+      "path": "Results/phase1_characterize/comparators/comparators_cases.csv",
+      "sha256": "d94253f7171eb67da58c502f4b8d343f400fe99190e2def147c726ce865ff7b8"
+    },
+    "comparators_record": {
+      "path": "Results/phase1_characterize/comparators/run_record.json",
+      "sha256": "b90f7532f0567f0cf9a23511c7732b8b02d85a710b257382fde2160ee58d15bc"
+    },
+    "gap_inference": {
+      "path": "Results/phase1_characterize/gap_content_internal/gap_content_cases.csv",
+      "sha256": "f2540aa944ddba0ac7fc4e9b2692f5de3f5bd9975440b15000d5293add22a757"
+    },
+    "gap_native": {
+      "path": "Results/phase1_characterize/gap_content_native/gap_content_cases.csv",
+      "sha256": "0fdd498152c6b852a84b1c141c04c500bf28dc0e490cb9922e87a8313e6dbaf4"
+    },
+    "longitudinal_agreement": {
+      "path": "Results/phase1_characterize/connectivity/longitudinal_agreement.csv",
+      "sha256": "3935214d531fd009bf2a7e27d1f882e9b4e6e8db903dc6b058c5a3fd96f18151"
+    },
+    "mask_topology": {
+      "path": "Results/phase1_characterize/summary/mask_topology_cases.csv",
+      "sha256": "dc7d74e281f3eeec3f95b39f269d75b8891a848d8bbfd9414be3157cd5a15ce7"
+    },
+    "mask_topology_record": {
+      "path": "Results/phase1_characterize/summary/mask_topology_run_record.json",
+      "sha256": "bd62ab87ffaa42547a7ba34b941644bf3e1fedde486a9d0d48bc47795d7fd13c"
+    },
+    "model_coefficients": {
+      "path": "Results/phase1_characterize/connectivity/model_coefficients.csv",
+      "sha256": "4fba2660942e7b61d0fad3bf30f3827a1083f4eba5cfa9283a6dc52e3cfd5b63"
+    },
+    "paired_connectivity": {
+      "path": "Results/phase1_characterize/model_grid/paired_connectivity.csv",
+      "sha256": "137f6e7a0c9b90031b6cc1e0faae075fce1417bc122a908a8533d953216fd788"
+    },
+    "participant_mapping": {
+      "path": "Results/phase1_characterize/connectivity/participant_mapping.csv",
+      "sha256": "2d030ac763d4323376585b91282e818dd6ebf2216cd09da13d0398cf08e1b44c"
+    },
+    "reference_cases": {
+      "path": "Results/phase1_characterize/connectivity/reference_cases.csv",
+      "sha256": "19d68d24aa5b62b805cf7ea623d463ccd2ee2c5f29fc51f14b6b68c1f9e2e656"
+    },
+    "reference_topology": {
+      "path": "Results/phase1_characterize/summary/reference_topology_cases.csv",
+      "sha256": "c4a78a1b2c742ea02b1b10e6f1b6b3dde2afde3690c0314f2115b9c4778539cd"
+    },
+    "reproduction_fidelity": {
+      "path": "Results/phase1_characterize/model_grid/reproduction_fidelity.csv",
+      "sha256": "06c438932318d5b2b8a71075c1f7f23a51e40dfe6ee2aee9bc456f6c114b9a34"
+    },
+    "saros_metadata": {
+      "path": "METADATA/SAROS.csv",
+      "sha256": "66d932459fbb9c294fcd1322ae55b7609d302909d342658de4f641acfe96a92e"
+    }
+  },
+  "n_boot": 10000,
+  "outputs": {
+    "RESULTS_SUMMARY.md": "92bcfd0eb6bf7988b8ff07c273c261cc07966064509863d5091a110849de1eac",
+    "t1_age_by_sex.csv": "af5ef97cab6a27a86a5c894961be2dc1cff4973e32c4c4fbf1506a982fae2f0c",
+    "t1_attenuation_quartiles.csv": "d56114a7f04b41d4ef231259718ff519ba2e2ff383455e15677124473c0996b0",
+    "t1_betti.csv": "b5436d8ae6761ffcfa542708e36c462190ddd3dcb8d9d6a86ef4ddd59e281df0",
+    "t1_bottleneck_fixed.csv": "fa97cf96995433494fb6b0943d1fc3c4f2752c621d606647219e62e3a51519c5",
+    "t1_comparator_crosstab.csv": "403dde36b51219d1d8308842b90115c77bd17261a2cedeb48c2dfa7159f9ecca",
+    "t1_comparators.csv": "4e2909be7bbe56a9fe2d3694d66f375efae143255befaf201e32d67f02b2058a",
+    "t1_contrast_metadata.csv": "58d9c5127e9b1af3dd5d88d16a5426d0a982fd8848777447d6ee20faeab4c53b",
+    "t1_corridor_arterial_labels.csv": "65ee05b8abc8726c6144b93acd2ec33255bc762b35e36aec2a38e3130b72e1b3",
+    "t1_corridor_fraction.csv": "76f083dc5434e0008d2cd5d9cad5643e06d06ea1e92f86b6c4548511e50fbb49",
+    "t1_corridor_label_frequency.csv": "6775a82400277c329ada6718006762b6c76bcc2b32c6dc5582423ca8abcd4c3b",
+    "t1_corridor_labels.csv": "37effb64c56e9012b2a89f59f9f8cadf6a0cf2297b4a634c75d82709129761c2",
+    "t1_corridor_location.csv": "cba0b3bcdb99d52e1bce586021eb8f50ba5c1bf31d43e7f90a916451276edf0b",
+    "t1_cross_dataset_overlap.csv": "df0d456b71d358913f78de5071bb98c3d50acf2d8dc247f90876c777d01c4700",
+    "t1_gap_level.csv": "91ea3ba43a192bad7187700ed88c68905418352bb5ab7a6e988c88f4e81cb189",
+    "t1_inference_grid_model.csv": "3df60df54bfd41f6395f4c723b1302506d909793737b29bdfbee340dd40085e2",
+    "t1_inference_grid_rates.csv": "e9b344fde9461bdf71969903a2f8e291eba9f20fcb360f6e6b928bc19d2a77f1",
+    "t1_median_intervals.csv": "797ff9fbeac5d238c0e567d1452cb1df0a10b53aec04dc146c5ca7a9f3fc7f75",
+    "t1_merge_bound.csv": "3e783d008515dfb49d0b28474cf5586e65edea6f73c5e7f21b8d5c8145127c17",
+    "t1_nonmeasurable_labels.csv": "dad866cfcfdea90c81d2ca45da34565557cc8eb7df9c5c8b07e0a670209cfb11",
+    "t1_paired_participant_contingency.csv": "f0d0c17a29f9682f15b45728d552f174c1aefea6e02531473014e620525817e9",
+    "t1_paired_projection.csv": "c9a0bcc10fff7f1babc0d1762c8047242cb20f9cc823443613da83faf9b4a6f2",
+    "t1_population_sensitivity.csv": "3e673ca9575ebc1d777059bf8dd5b4da5fd5ba2e4bc3db106d203c983f662eaa",
+    "t1_projection_extended.csv": "0ffab39666a0513b1c28df00eb501247a4bda31b4b777a9d76ae263865e64489",
+    "t1_reference_annotations.csv": "0bd4caac966af414cfee2b8b80ba99a30d2b8e57c8ebb61a3bbab034515f27a9",
+    "t1_repeat_contacts.csv": "e802a2f1d30e0355a6ca35d7322c572f7b94e0579801c2687054f9d4d34e9a54",
+    "t1_repeat_examinations.csv": "74d2b904b3d353215bdd4e8ef721f4827ae4ac882250a14f9ea11d70b45da60a",
+    "t1_saros_region.csv": "0c7c2f72e20dd4285932068a1040bdd736a642f80540723b5ff4845bc564a084"
+  },
+  "packages": {
+    "numpy": "2.3.3",
+    "pandas": "2.3.3",
+    "scipy": "1.16.2",
+    "statsmodels": "0.14.6"
+  },
+  "producer": "Code/phase1_characterize/summary/summary_tables.py",
+  "producer_sha256": "9e5a23340830237e513f6eda3bf98a0948f52b51e9e08c5cad3b50fbdd5cb463",
+  "python": "3.12.10",
+  "seeds": {
+    "grid": 20261025,
+    "topology": 20240611
+  }
+}

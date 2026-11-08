@@ -1,0 +1,25 @@
+item,cases
+saros_collection:ACRIN-FLT-Breast,32
+saros_collection:ACRIN-NSCLC-FDG-PET,48
+saros_collection:Anti-PD-1_Lung,11
+saros_collection:C4KC-KiTS,171
+saros_collection:COVID-19-NY-SBU,1
+saros_collection:CPTAC-CM,1
+saros_collection:CPTAC-LSCC,3
+saros_collection:CPTAC-LUAD,1
+saros_collection:CPTAC-PDA,8
+saros_collection:CPTAC-UCEC,26
+saros_collection:Lung-PET-CT-Dx,2
+saros_collection:NSCLC Radiogenomics,7
+saros_collection:NSCLC-Radiomics-Genomics,2
+saros_collection:Pancreas-CT,34
+saros_collection:Soft-tissue-Sarcoma,6
+saros_collection:TCGA-LIHC,31
+saros_collection:TCGA-LUAD,2
+saros_collection:TCGA-LUSC,3
+saros_collection:TCGA-STAD,2
+saros_collection:TCGA-UCEC,1
+saros_collections,20
+saros_cases_in_autopet_collection,0
+study_uid_shared_with_autopet,0
+series_uid_shared_with_autopet,0

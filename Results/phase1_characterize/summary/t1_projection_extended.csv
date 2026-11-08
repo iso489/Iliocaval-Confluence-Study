@@ -1,0 +1,7 @@
+adjacency,stratum,n,participants,native_disconnected,inference_disconnected,closed_by_projection,opened_by_projection,net_examinations,estimate,ci_lo,ci_hi,ci_method,statistic,p_value
+26,all,1873,1759,892,1095,205,2,203,10.83822744,9.431939979,12.27323648,cohort_stratified_participant_percentile,189.144388,4.887590599e-43
+26,spacing_gt1p5mm,1597,1494,743,946,205,2,203,12.71133375,11.05495894,14.44584567,cohort_stratified_participant_percentile,189.6380882,3.813545801e-43
+26,spacing_le1p5mm,276,276,149,149,0,0,0,0,0,0,cohort_stratified_participant_percentile,,
+6,all,1873,1759,1110,1492,390,8,382,20.39508809,18.5026738,22.25806452,cohort_stratified_participant_percentile,347.2383769,1.692500736e-77
+6,spacing_gt1p5mm,1597,1494,899,1281,390,8,382,23.91984972,21.74462509,26.0404346,cohort_stratified_participant_percentile,348.0138006,1.147271286e-77
+6,spacing_le1p5mm,276,276,211,211,0,0,0,0,0,0,cohort_stratified_participant_percentile,,

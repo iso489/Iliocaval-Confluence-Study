@@ -1,0 +1,14 @@
+row,n,net_examinations,estimate,ci_lo,ci_hi,participants,ci_method,events,closed_by_projection,opened_by_projection,statistic,p_value
+paired_change:measurable,1873,203,10.83822744,9.431939979,12.27323648,1759,cohort_stratified_participant_percentile,,,,,
+paired_change:processed_empty_counted_disconnected,1899,203,10.68983676,9.268035808,12.1432374,1784,cohort_stratified_participant_percentile,,,,,
+prevalence:native:processed_empty_counted_disconnected,1899,,48.34123223,46.09411291,50.66041519,1784,cohort_stratified_participant_percentile,918,,,,
+prevalence:inference:processed_empty_counted_disconnected,1899,,59.03106898,56.75246003,61.29707391,1784,cohort_stratified_participant_percentile,1121,,,,
+paired_change:spacing_le_1p5mm,276,0,0,0,0,276,cohort_stratified_participant_percentile,,,,,
+paired_change:spacing_gt1p5_to3mm,1145,142,12.40174672,10.50382403,14.37230757,1042,cohort_stratified_participant_percentile,,,,,
+paired_change:spacing_gt3mm,452,61,13.49557522,10.39823009,16.81415929,452,cohort_stratified_participant_percentile,,,,,
+discordant:AMOS,493,,,,,,,,42,2,,
+discordant:SAROS,366,,,,,,,,46,0,,
+discordant:autoPET,1014,,,,,,,,117,0,,
+discordant:pooled,1873,,,,,,,,205,2,,
+clustered_mcnemar:durkalski_2003,1873,,,,,1759,,,,,189.144388,4.887590599e-43
+mcnemar:exact_unclustered,1873,,,,,,,,,,197.1207729,2.093363999e-58

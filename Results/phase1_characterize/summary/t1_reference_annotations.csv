@@ -1,0 +1,15 @@
+outcome,n,events,estimate,ci_lo,ci_hi,participants,ci_method,q25,q75
+disconnected_26,600,326,54.33333333,50.33266215,58.27886977,600,Wilson_independent_case_proxies,,
+disconnected_6,600,361,60.16666667,56.19675145,64.00722729,600,Wilson_independent_case_proxies,,
+connected_26_disconnected_6,274,35,12.77372263,9.329882474,17.24694992,274,Wilson_independent_case_proxies,,
+disconnected_26_boundary_excluded,511,272,53.22896282,48.89483683,57.51490337,511,Wilson_independent_case_proxies,,
+disconnected_6_boundary_excluded,511,301,58.90410959,54.58720765,63.08813657,511,Wilson_independent_case_proxies,,
+separation_le_1_slice_unit,326,26,7.975460123,5.500561484,11.42922624,326,Wilson_independent_case_proxies,,
+separation_gt_2_slice_units,326,268,82.20858896,77.68922841,85.9777226,326,Wilson_independent_case_proxies,,
+separation_mm_median,326,,6.363961031,,,,,4.242640687,11.95275295
+nonmeasurable:left_iliac_label_only_absent,628,377,,,,,,,
+nonmeasurable:ivc_label_only_absent,628,36,,,,,,,
+nonmeasurable:both_labels_absent,628,215,,,,,,,
+nonmeasurable:head_neck_chest_or_heart_study,628,393,,,,,,,
+nonmeasurable:abdomen_pelvis_legs_or_whole_body_study,628,161,,,,,,,
+nonmeasurable:study_description_unplaced,628,74,,,,,,,

@@ -1,0 +1,3 @@
+grid,disconnected_n,corridor_contains_abdominal_organ_label,centroid_minus_rciv_cranial_mm_missing,centroid_minus_rciv_cranial_mm_p10,centroid_minus_rciv_cranial_mm_p25,centroid_minus_rciv_cranial_mm_p50,centroid_minus_rciv_cranial_mm_p75,centroid_minus_rciv_cranial_mm_p90
+native,892,10,1,-1.25,2,5,8.980769231,35
+inference,1095,14,1,-1.685,0.75,3.33097166,6.75,29.12558139

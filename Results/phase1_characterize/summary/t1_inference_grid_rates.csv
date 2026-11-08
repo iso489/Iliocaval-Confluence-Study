@@ -1,0 +1,17 @@
+grid,adjacency,cohort,n,events,estimate,ci_lo,ci_hi,participants,ci_method
+native,26,pooled,1873,892,47.62413241,45.37624399,49.91905455,1759,cohort_stratified_participant_percentile
+native,26,AMOS,493,334,67.7484787,63.49875118,71.72375227,493,Wilson_independent_case_proxies
+native,26,SAROS,366,177,48.36065574,43.28461879,53.47074767,366,Wilson_independent_case_proxies
+native,26,autoPET,1014,381,37.5739645,34.36247315,40.80639261,900,cohort_stratified_participant_percentile
+native,6,pooled,1873,1110,59.2632141,56.97486397,61.51776463,1759,cohort_stratified_participant_percentile
+native,6,AMOS,493,368,74.64503043,70.62438809,78.28457385,493,Wilson_independent_case_proxies
+native,6,SAROS,366,205,56.01092896,50.8892913,61.00769833,366,Wilson_independent_case_proxies
+native,6,autoPET,1014,537,52.95857988,49.70351311,56.33937327,900,cohort_stratified_participant_percentile
+inference,26,pooled,1873,1095,58.46235985,56.20969399,60.72939256,1759,cohort_stratified_participant_percentile
+inference,26,AMOS,493,374,75.86206897,71.8940834,79.43013592,493,Wilson_independent_case_proxies
+inference,26,SAROS,366,223,60.92896175,55.84159384,65.78929639,366,Wilson_independent_case_proxies
+inference,26,autoPET,1014,498,49.11242604,45.82104228,52.5391022,900,cohort_stratified_participant_percentile
+inference,6,pooled,1873,1492,79.65830219,77.76016694,81.5575987,1759,cohort_stratified_participant_percentile
+inference,6,AMOS,493,434,88.03245436,84.86922776,90.60756535,493,Wilson_independent_case_proxies
+inference,6,SAROS,366,294,80.32786885,75.94928803,84.07643237,366,Wilson_independent_case_proxies
+inference,6,autoPET,1014,764,75.34516765,72.50720121,78.18365591,900,cohort_stratified_participant_percentile

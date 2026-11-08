@@ -1,0 +1,13 @@
+# Source metadata are not distributed (METADATA/README.md)
+METADATA/*.csv
+METADATA/raw/
+
+# Python and tool caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Local files
+.DS_Store

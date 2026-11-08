@@ -1,0 +1,7 @@
+grid,label,examinations,arterial_corridors,disconnected_n
+native,aorta,7,77,892
+native,iliac_artery_left,14,77,892
+native,iliac_artery_right,59,77,892
+inference,aorta,7,73,1095
+inference,iliac_artery_left,12,73,1095
+inference,iliac_artery_right,57,73,1095

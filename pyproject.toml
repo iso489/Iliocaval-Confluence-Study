@@ -1,0 +1,3 @@
+[tool.pytest.ini_options]
+# Test modules are imported by file location; Code/conftest.py appends each code folder to sys.path.
+addopts = "--import-mode=importlib"

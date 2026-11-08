@@ -1,0 +1,5 @@
+grid,outcome,n,events,estimate,ci_lo,ci_hi,participants,ci_method
+native,corridor_contains_nonvascular_label,892,94,10.53811659,8.558483483,12.62569832,861,cohort_stratified_participant_percentile
+native,corridor_contains_other_vascular_label,892,0,0,0,0,861,cohort_stratified_participant_percentile
+inference,corridor_contains_nonvascular_label,1095,90,8.219178082,6.623599517,9.864418277,1051,cohort_stratified_participant_percentile
+inference,corridor_contains_other_vascular_label,1095,0,0,0,0,1051,cohort_stratified_participant_percentile

@@ -1,0 +1,5 @@
+grid,outcome,n,events,estimate,ci_lo,ci_hi,participants,ci_method
+native,bottleneck_radius<=min_spacing (published row),981,299,30.47910296,27.62762763,33.40207255,918,cohort_stratified_participant_percentile
+native,bottleneck_radius<=1.5mm,981,445,45.36187564,42.20841272,48.55074274,918,cohort_stratified_participant_percentile
+inference,bottleneck_radius<=min_spacing (published row),778,721,92.67352185,90.75520833,94.44462366,734,cohort_stratified_participant_percentile
+inference,bottleneck_radius<=1.5mm,778,721,92.67352185,90.75520833,94.44462366,734,cohort_stratified_participant_percentile
