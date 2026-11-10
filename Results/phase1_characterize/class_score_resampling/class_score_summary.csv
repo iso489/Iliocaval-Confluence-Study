@@ -1,0 +1,9 @@
+group,adjacency,n_measurable,inference_disconnected,inference_pct,nearest_disconnected,nearest_pct,linear_disconnected,linear_pct,linear_closed_vs_nearest,linear_opened_vs_nearest,linear_nonmeasurable,slab_disconnected,slab_pct,slab_closed_vs_nearest,slab_opened_vs_nearest,slab_nonmeasurable
+all,26,1873,1096,58.5,893,47.7,1073,57.3,26,206,0,1118,59.7,19,244,0
+all,6,1873,1492,79.7,1110,59.3,1289,68.8,44,223,0,1340,71.5,35,265,0
+spacing_gt1p5_to3mm,26,1145,625,54.6,484,42.3,577,50.4,20,113,0,607,53.0,16,139,0
+spacing_gt1p5_to3mm,6,1145,898,78.4,612,53.4,719,62.8,33,140,0,757,66.1,30,175,0
+spacing_gt3mm,26,452,322,71.2,260,57.5,281,62.2,6,27,0,296,65.5,3,39,0
+spacing_gt3mm,6,452,383,84.7,287,63.5,312,69.0,11,36,0,325,71.9,5,43,0
+spacing_le_1p5mm,26,276,149,54.0,149,54.0,215,77.9,0,66,0,215,77.9,0,66,0
+spacing_le_1p5mm,6,276,211,76.4,211,76.4,258,93.5,0,47,0,258,93.5,0,47,0

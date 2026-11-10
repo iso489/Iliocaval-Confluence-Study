@@ -1,0 +1,23 @@
+{
+ "cases_json_sha256": "cb7312a882a8168ee9c809b26d07567ace29215c77e7db7e9c7f0568b172b2a0",
+ "complete": 1899,
+ "epsilon": 1e-06,
+ "expected": 1899,
+ "incomplete": [],
+ "intervals_producer": "Code/phase1_characterize/summary/class_score_intervals.py",
+ "outputs": {
+  "class_score_cases.csv": "98eed56270eeeac4ec734dde719df3a5fcaee2e9c82f1d7a7175d465a0ba17ce",
+  "class_score_intervals.csv": "215088662536f1077b6386322c6ef53787ede43fe7604915d1e1c86ad6ce36e1",
+  "class_score_summary.csv": "0fc4a6d25ce3bc6b6124514a3b1485ddf9cff1686659cacb78d22da2c613d9fb"
+ },
+ "producer": "Code/phase1_characterize/class_score_resampling.py",
+ "slab_samples": 15,
+ "versions": {
+  "TotalSegmentator": "2.17.0",
+  "nibabel": "5.4.2",
+  "nnunetv2": "2.8.1",
+  "numpy": "2.4.2",
+  "scipy": "1.17.0",
+  "torch": "2.13.0"
+ }
+}

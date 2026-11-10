@@ -54,6 +54,14 @@ This rewrites the tables in `Results/phase1_characterize/summary/`, with `RESULT
 annotations' arterial masks from Zenodo. The measurement steps need the CT images and the
 TotalSegmentator masks; their code is in `Code/phase1_characterize/`.
 
+`Results/phase1_characterize/class_score_resampling/` holds the class-score experiment (Table S5).
+`class_score_resampling.py` wrote its per-examination table and needs a GPU, the CT images and
+TotalSegmentator 2.17.0; the intervals are computed from that table alone:
+
+```bash
+python Code/phase1_characterize/summary/class_score_intervals.py
+```
+
 ## Data sources
 
 | Dataset | Persistent identifier | License |
